@@ -19,8 +19,8 @@ As a digital marketer with 8+ years of experience, I built this tool to solve th
 ## Features
 - **Real-time Analytics:** Auto-calculates marketing metrics as you enter spend and conversion data.
 - **Data Persistence:** Uses a SQL database to save campaigns across sessions.
-- **Export Capabilities:** One-click CSV export for external reporting in Excel or Google Sheets.
-- **CRUD Functionality:** Full capability to create, read, and delete campaign records.
+- **Export Capabilities:** One-click CSV export for external reporting in Excel or Google Sheets. (Ongoing)
+- **CRUD Functionality:** Full capability to create, read, and delete campaign records. (delete function in progress)
 
 ## Installation & Setup
 
